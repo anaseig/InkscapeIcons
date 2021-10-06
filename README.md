@@ -16,4 +16,3 @@
 **VERSION RELEASE**
 
 <img src="overview/icon_overview2.png">
-[1.0]
