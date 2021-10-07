@@ -14,8 +14,8 @@
 
 **DISCLAIMER**
 <br />
-this is an opensource project to make a better icon design system for inkscape. i do not own all the work, rather i assembled many of the icons them from awesome contributors like - logos by nick and 7kv929, as well as i designed some of them. yet there's a lot to do to make it a complete iconpack.
-you can also contribute to this project by creating modern minimal icons and notify me.
+this is an opensource project to make a better icon design system for inkscape. i do not own all the work, rather i assembled many of the icons from awesome contributors like - logos by nick and 7kv929, as well as i designed some of them. yet there's a lot to do to make it complete.
+you can also contribute to this project by creating/redesigning modern minimal icons and notify me.
 
 <br />
 
